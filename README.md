@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dipankar Prasad
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web & App development
 - 🌱 I’m currently learning MERN and React Native
 
 
