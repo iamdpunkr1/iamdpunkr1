@@ -24,15 +24,12 @@ I'm passionate about creating awesome web and mobile experiences. Currently divi
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
-
-![Dipankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdpunkr1&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
 - LinkedIn: [Dipankar Prasad](https://www.linkedin.com/in/iamdpunkr/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/iamdpunkr/)
-- Portfolio: [Your Portfolio](https://iamdpunkr.netlify.app/)
+- Twitter: [@iamdpunkr](https://twitter.com/iamdpunkr/)
+- Portfolio: [My Portfolio](https://iamdpunkr.netlify.app/)
 
 <!---
 iamdpunkr1/iamdpunkr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
