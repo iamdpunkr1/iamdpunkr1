@@ -4,7 +4,7 @@ I'm passionate about creating awesome web and mobile experiences. Currently divi
 
 ## 🚀 Quick Facts
 
-- 🌱 I am currently gaining expertise in MERN stack development and mastering both React and React NativeI’m currently matstering MERN and React Native.
+- 🌱 I am currently gaining expertise in MERN stack and React Native.
 - 💻 Exploring the realms of web and app development.
 - 📚 Always eager to learn and grow.
 
